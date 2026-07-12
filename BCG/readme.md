@@ -1,0 +1,3 @@
+I recently participated in BCG's job simulation on the Forage platform, and it was incredibly useful to understand what it might be like to participate on a Marketing Analytics team at BCG.
+I worked on a project to help a consumer goods client analyze digital campaign performance and identify the most effective marketing strategies. I practiced interpreting customer behavior data in Excel and built my analytical thinking and business communication skills in a real-world context.
+Doing this program confirmed that I really enjoy using data to solve marketing challenges and I'm excited to apply these skills on a strategy or analytics team at a company like BCG.
